@@ -1,0 +1,71 @@
+Dependencies for Project 'project', Target 'gpio': (DO NOT MODIFY !)
+F (.\startup_stm32f10x_hd.s)(0x51C7AF80)(--cpu Cortex-M3 -g --apcs=interwork -I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\ST\STM32F10x--list .\startup_stm32f10x_hd.lst --xref -o .\startup_stm32f10x_hd.o --depend .\startup_stm32f10x_hd.d)
+F (..\user\main.c)(0x5728090C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\..\stsw-stm32054\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\user-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (D:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h)(0x51C7AFEA)
+I (D:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x51C7B54A)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x51C7B54A)
+I (D:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x51C7B54A)
+I (D:\Keil\ARM\Inc\ST\STM32F10x\system_stm32f10x.h)(0x51C7AFEA)
+I (G:\STM32\STM32 Project\1.gpio\user\stm32f10x_conf.h)(0x572158C2)
+I (G:\STM32\STM32 Project\stsw-stm32054\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x546CAA40)
+I (G:\STM32\STM32 Project\stsw-stm32054\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x54788F12)
+I (G:\STM32\STM32 Project\stsw-stm32054\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x546CAA40)
+I (G:\STM32\STM32 Project\1.gpio\user\led.h)(0x57465BB6)
+F (..\user\stm32f10x_it.c)(0x546CAA32)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\..\stsw-stm32054\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\user-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o .\stm32f10x_it.o --omf_browse .\stm32f10x_it.crf --depend .\stm32f10x_it.d)
+I (G:\STM32\STM32 Project\1.gpio\user\stm32f10x_it.h)(0x546CAA32)
+I (D:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h)(0x51C7AFEA)
+I (D:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x51C7B54A)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x51C7B54A)
+I (D:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x51C7B54A)
+I (D:\Keil\ARM\Inc\ST\STM32F10x\system_stm32f10x.h)(0x51C7AFEA)
+I (G:\STM32\STM32 Project\1.gpio\user\stm32f10x_conf.h)(0x572158C2)
+I (G:\STM32\STM32 Project\stsw-stm32054\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x546CAA40)
+I (G:\STM32\STM32 Project\stsw-stm32054\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x54788F12)
+I (G:\STM32\STM32 Project\stsw-stm32054\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x546CAA40)
+F (..\user\system_stm32f10x.c)(0x546CAA32)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\..\stsw-stm32054\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\user-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o .\system_stm32f10x.o --omf_browse .\system_stm32f10x.crf --depend .\system_stm32f10x.d)
+I (D:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h)(0x51C7AFEA)
+I (D:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x51C7B54A)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x51C7B54A)
+I (D:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x51C7B54A)
+I (D:\Keil\ARM\Inc\ST\STM32F10x\system_stm32f10x.h)(0x51C7AFEA)
+I (G:\STM32\STM32 Project\1.gpio\user\stm32f10x_conf.h)(0x572158C2)
+I (G:\STM32\STM32 Project\stsw-stm32054\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x546CAA40)
+I (G:\STM32\STM32 Project\stsw-stm32054\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x54788F12)
+I (G:\STM32\STM32 Project\stsw-stm32054\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x546CAA40)
+F (..\user\led.c)(0x571ED190)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\..\stsw-stm32054\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\user-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o .\led.o --omf_browse .\led.crf --depend .\led.d)
+I (G:\STM32\STM32 Project\1.gpio\user\led.h)(0x57465BB6)
+I (D:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h)(0x51C7AFEA)
+I (D:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x51C7B54A)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x51C7B54A)
+I (D:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x51C7B54A)
+I (D:\Keil\ARM\Inc\ST\STM32F10x\system_stm32f10x.h)(0x51C7AFEA)
+I (G:\STM32\STM32 Project\1.gpio\user\stm32f10x_conf.h)(0x572158C2)
+I (G:\STM32\STM32 Project\stsw-stm32054\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x546CAA40)
+I (G:\STM32\STM32 Project\stsw-stm32054\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x54788F12)
+I (G:\STM32\STM32 Project\stsw-stm32054\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x546CAA40)
+F (..\..\stsw-stm32054\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_gpio.c)(0x547B192E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\..\stsw-stm32054\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\user-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o .\stm32f10x_gpio.o --omf_browse .\stm32f10x_gpio.crf --depend .\stm32f10x_gpio.d)
+I (G:\STM32\STM32 Project\stsw-stm32054\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x546CAA40)
+I (D:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h)(0x51C7AFEA)
+I (D:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x51C7B54A)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x51C7B54A)
+I (D:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x51C7B54A)
+I (D:\Keil\ARM\Inc\ST\STM32F10x\system_stm32f10x.h)(0x51C7AFEA)
+I (G:\STM32\STM32 Project\1.gpio\user\stm32f10x_conf.h)(0x572158C2)
+I (G:\STM32\STM32 Project\stsw-stm32054\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x54788F12)
+I (G:\STM32\STM32 Project\stsw-stm32054\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x546CAA40)
+F (..\..\stsw-stm32054\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_rcc.c)(0x546CAA40)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\..\stsw-stm32054\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\user-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o .\stm32f10x_rcc.o --omf_browse .\stm32f10x_rcc.crf --depend .\stm32f10x_rcc.d)
+I (G:\STM32\STM32 Project\stsw-stm32054\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x54788F12)
+I (D:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h)(0x51C7AFEA)
+I (D:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x51C7B54A)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x51C7B54A)
+I (D:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x51C7B54A)
+I (D:\Keil\ARM\Inc\ST\STM32F10x\system_stm32f10x.h)(0x51C7AFEA)
+I (G:\STM32\STM32 Project\1.gpio\user\stm32f10x_conf.h)(0x572158C2)
+I (G:\STM32\STM32 Project\stsw-stm32054\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x546CAA40)
+I (G:\STM32\STM32 Project\stsw-stm32054\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x546CAA40)

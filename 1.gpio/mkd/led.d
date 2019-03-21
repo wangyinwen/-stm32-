@@ -1,0 +1,13 @@
+.\led.o: ..\user\led.c
+.\led.o: ..\user\led.h
+.\led.o: D:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h
+.\led.o: D:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\led.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\led.o: D:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\led.o: D:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\led.o: D:\Keil\ARM\Inc\ST\STM32F10x\system_stm32f10x.h
+.\led.o: ..\user\stm32f10x_conf.h
+.\led.o: ..\..\stsw-stm32054\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\led.o: D:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h
+.\led.o: ..\..\stsw-stm32054\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\led.o: ..\..\stsw-stm32054\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h

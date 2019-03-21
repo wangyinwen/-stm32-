@@ -1,0 +1,2 @@
+Dependencies for Project 'project', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_stm32f10x_hd.s)(0x51C7AF80)(--cpu Cortex-M3 -g --apcs=interwork -I G:\MDK\ARM\RV31\INC-I G:\MDK\ARM\CMSIS\Include-I G:\MDK\ARM\Inc\ST\STM32F10x--list .\startup_stm32f10x_hd.lst --xref -o .\startup_stm32f10x_hd.o --depend .\startup_stm32f10x_hd.d)
